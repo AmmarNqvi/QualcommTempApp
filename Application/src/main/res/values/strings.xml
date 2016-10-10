@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="celsius"> °C</string>
+    <string name="app_name">Qualcomm Temp App</string>
+
+</resources>

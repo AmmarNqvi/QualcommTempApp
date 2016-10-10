@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_facf08c2582bf70289917213d3b7648eff8f6a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_7c283e992452c9cbcecfc01569468faf7fb448b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_61d1c52d18f03865b46323fa990fb4d70a15baad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_396f9f10f0a285b6d0ccbdac0ef4b8162b0c452c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.1.1_945aa5653959f12b57e370913f59071aabec67bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_0ae8c29a5024f91408fd63e4989e58869eccb101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_b6ff4a1745060d792230ad52e0360e2d0e9edbac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_f59fb06084348f6a7555485c5da4d9a81f0ca408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_6eca0c9c11a9bb9196e64c9a681bb4441eae9e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_19d1c9334e3c96c34e2aae4c32d28f408dc14a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_8ee0fdc2ef3e7d60e719413c3d3bf2a07c345f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_84d1de75c0e7a5e3d0ede379e9758062006ec42a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_70b124d1981169bfc8e7d74d4ed58ed68fe34cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_88c0ebca0b83ea39895ba281f2ae92943af9c2b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_53fc5164a7cdfa62ca4fb2f27eaa54bd57f9d709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\amr\Desktop\SwipeRefreshLayoutBasic1\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_1c5c98b560e6c02dc43e12efcb311b526363eed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\amr\Desktop\QualcommTemp\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.1.1_fef6f3751c071f6cb8d720d417032743b06d2e76.jar" />
+    </item>
+
+</items>
